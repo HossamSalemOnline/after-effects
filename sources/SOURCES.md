@@ -22,7 +22,7 @@ Captured on 24 Nov 2026.
 |---|---|
 | [madbax.org/editor-zone](https://madbax.org/editor-zone/), [aepmotion.com](https://aepmotion.com/) | Web fetch |
 | EarnEdits product pages (home page blocks direct fetches) | Web search snippets of earnedits.com |
-| The other 28 names | 47 Google searches via Apify `apify/google-search-scraper`; each result checked against the creator's own store or channel |
+| All 33 direct URLs (supplied list, 24 Nov update) | Opened with Apify `apify/website-content-crawler` and `apify/web-fetch`; title, price, contents and licence read from each page |
 
 ## Media inventory
 21 images, listed in [media-manifest.json](media-manifest.json): 17 Atom template thumbnails (cdn.davey.design) and 4 YouTube frames (i.ytimg.com). GitHub Actions downloads them into `docs/media/` on push.
