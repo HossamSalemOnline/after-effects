@@ -1,0 +1,173 @@
+{
+  "cdn_base": "https://raw.githack.com/HossamSalemOnline/after-effects/main/",
+  "files": [
+    {
+      "path": "docs/media/atom-sunset-rocket-launch.jpg",
+      "original": "https://cdn.davey.design/templates/sunset-rocket-launch/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Sunset Rocket Launch"
+    },
+    {
+      "path": "docs/media/atom-golden-ratio-logo.jpg",
+      "original": "https://cdn.davey.design/templates/golden-ratio-logo/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Golden Ratio Logo"
+    },
+    {
+      "path": "docs/media/atom-chrome-sculpture.jpg",
+      "original": "https://cdn.davey.design/templates/chrome-sculpture/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Chrome Sculpture"
+    },
+    {
+      "path": "docs/media/atom-flight-route.jpg",
+      "original": "https://cdn.davey.design/templates/flight-route/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Flight Route"
+    },
+    {
+      "path": "docs/media/atom-sunlit-app-screen.jpg",
+      "original": "https://cdn.davey.design/templates/sunlit-app-screen/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Sunlit App Screen"
+    },
+    {
+      "path": "docs/media/atom-neon-city.jpg",
+      "original": "https://cdn.davey.design/templates/neon-city/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Neon City"
+    },
+    {
+      "path": "docs/media/atom-kinetic-lyric.jpg",
+      "original": "https://cdn.davey.design/templates/kinetic-lyric/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Kinetic Lyric"
+    },
+    {
+      "path": "docs/media/atom-robot-walk-cycle.jpg",
+      "original": "https://cdn.davey.design/templates/robot-walk-cycle/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Robot Walk Cycle"
+    },
+    {
+      "path": "docs/media/atom-lighthouse-storm.jpg",
+      "original": "https://cdn.davey.design/templates/lighthouse-storm/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Lighthouse Storm"
+    },
+    {
+      "path": "docs/media/atom-solar-eclipse.jpg",
+      "original": "https://cdn.davey.design/templates/solar-eclipse/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Solar Eclipse"
+    },
+    {
+      "path": "docs/media/atom-koi-pond.jpg",
+      "original": "https://cdn.davey.design/templates/koi-pond/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Koi Pond"
+    },
+    {
+      "path": "docs/media/atom-aurora-borealis.jpg",
+      "original": "https://cdn.davey.design/templates/aurora-borealis/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Aurora Borealis"
+    },
+    {
+      "path": "docs/media/atom-minecraft-title-sequence.jpg",
+      "original": "https://cdn.davey.design/templates/minecraft-title-sequence/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Minecraft Title Sequence"
+    },
+    {
+      "path": "docs/media/atom-shape-layer-fluid-simulation.jpg",
+      "original": "https://cdn.davey.design/templates/shape-layer-fluid-simulation/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Shape Layer Fluid Simulation"
+    },
+    {
+      "path": "docs/media/atom-mona-lisa-revealed.jpg",
+      "original": "https://cdn.davey.design/templates/mona-lisa-revealed/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Mona Lisa Revealed"
+    },
+    {
+      "path": "docs/media/atom-pixel-matrix.jpg",
+      "original": "https://cdn.davey.design/templates/pixel-matrix/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "Pixel Matrix"
+    },
+    {
+      "path": "docs/media/atom-4d-tesseract-cube.jpg",
+      "original": "https://cdn.davey.design/templates/4d-tesseract-cube/video-thumb.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e01",
+      "title": "4D Tesseract Cube"
+    },
+    {
+      "path": "docs/media/ae27-thumbnail.jpg",
+      "original": "https://i.ytimg.com/vi/RcNUE6lg3fE/maxresdefault.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e02",
+      "title": "ae27-thumbnail"
+    },
+    {
+      "path": "docs/media/ae27-frame-1.jpg",
+      "original": "https://i.ytimg.com/vi/RcNUE6lg3fE/hq1.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e02",
+      "title": "ae27-frame-1"
+    },
+    {
+      "path": "docs/media/ae27-frame-2.jpg",
+      "original": "https://i.ytimg.com/vi/RcNUE6lg3fE/hq2.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e02",
+      "title": "ae27-frame-2"
+    },
+    {
+      "path": "docs/media/ae27-frame-3.jpg",
+      "original": "https://i.ytimg.com/vi/RcNUE6lg3fE/hq3.jpg",
+      "mirror": "",
+      "kind": "image",
+      "entry": "e02",
+      "title": "ae27-frame-3"
+    }
+  ]
+}

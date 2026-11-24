@@ -1,0 +1,68 @@
+{
+  "hub": {
+    "title": "After Effects AI Hub",
+    "tagline": "Guides, prompts, update notes and a vetted template directory for using AI agents in Adobe After Effects. Images are stored in the repo; the site rebuilds itself on every push.",
+    "owner": "HossamSalemOnline",
+    "repo": "after-effects"
+  },
+  "entries": [
+    {
+      "id": "e01",
+      "file": "content/e01-atom-guide.md",
+      "title": "Atom: the complete guide to an AI agent inside After Effects",
+      "kind": "Guide",
+      "author": "Compiled guide",
+      "handle": "daveylovescode",
+      "author_url": "https://tryatom.ai/",
+      "date": "2026-11-24",
+      "source": "https://tryatom.ai/",
+      "cover": "docs/media/atom-minecraft-title-sequence.jpg",
+      "summary": "Setup, model choice, prompting rules, a prompt library, skills, MCP Mode, the Atom + Design Mode workflow, 17 free templates and Davey's free tools. Compiled from the docs, the developer's posts and reviews.",
+      "tags": [
+        "Atom",
+        "AI agent",
+        "Prompts",
+        "Skills",
+        "MCP"
+      ]
+    },
+    {
+      "id": "e02",
+      "file": "content/e02-after-effects-27-updates.md",
+      "title": "Every After Effects 27 update worth knowing",
+      "kind": "Video",
+      "author": "Jake In Motion",
+      "handle": "jakeinmotion",
+      "author_url": "https://www.youtube.com/channel/UCSggky_jA5RfK4gR5RBwGyw",
+      "date": "2026-11-23",
+      "source": "https://www.youtube.com/watch?v=RcNUE6lg3fE",
+      "cover": "docs/media/ae27-thumbnail.jpg",
+      "summary": "Condensed write-up of the full transcript: AI Assistant and its credit cost, 3D materials on text and shapes, Illustrator text, Contour Paint, Quick Apply history and more, with timestamp links.",
+      "tags": [
+        "AE 27",
+        "AI Assistant",
+        "3D materials",
+        "Video notes"
+      ]
+    },
+    {
+      "id": "e03",
+      "file": "content/e03-after-effects-templates.md",
+      "title": "After Effects templates and project files: the vetted directory",
+      "kind": "Directory",
+      "author": "Compiled directory",
+      "handle": "",
+      "author_url": "https://github.com/HossamSalemOnline/after-effects/blob/main/content/e03-after-effects-templates.md",
+      "date": "2026-11-24",
+      "source": "https://earnedits.com/",
+      "summary": "31 sources in three groups (project libraries, single SaaS edits, toolkits) plus a top-10 shortlist. EarnEdits, Madbax Editor Zone and aepmotion featured. Every link checked.",
+      "tags": [
+        "Templates",
+        "Project files",
+        "SaaS edits",
+        "Toolkits"
+      ],
+      "template_count": 31
+    }
+  ]
+}
