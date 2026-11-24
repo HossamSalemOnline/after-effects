@@ -1,6 +1,6 @@
 # Every After Effects 27 update worth knowing (Jake In Motion)
 
-<p align="center"><a href="https://www.youtube.com/watch?v=RcNUE6lg3fE"><img src="https://i.ytimg.com/vi/RcNUE6lg3fE/maxresdefault.jpg" width="720" alt="All the After Effects 2027 updates you should know about"></a><br><sub>Tap to watch on YouTube · 10m 34s · Jake In Motion · 23 Nov 2026</sub></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=RcNUE6lg3fE"><img src="../docs/media/ae27-thumbnail.jpg" width="720" alt="All the After Effects 2027 updates you should know about"></a><br><sub>Tap to watch on YouTube · 10m 34s · Jake In Motion · 23 Nov 2026</sub></p>
 
 > **Source:** [All the After Effects 2027 updates you should know about](https://www.youtube.com/watch?v=RcNUE6lg3fE) by [Jake In Motion](https://www.youtube.com/channel/UCSggky_jA5RfK4gR5RBwGyw). This page is a condensed, re-organised write-up of the full transcript, with every timestamp linked so you can jump straight to the demo.
 
@@ -23,7 +23,7 @@
 
 ## 1. The AI Assistant
 
-<p align="center"><img src="https://i.ytimg.com/vi/RcNUE6lg3fE/hq1.jpg" width="560" alt="Frame from around 2:38: the AI-built forecast comp"><br><sub>Frame from around 2:38, during the AI Assistant demo</sub></p>
+<p align="center"><img src="../docs/media/ae27-frame-1.jpg" width="560" alt="Frame from around 2:38: the AI-built forecast comp"><br><sub>Frame from around 2:38, during the AI Assistant demo</sub></p>
 
 **How it's paid for.** It spends the generative credits in your Creative Cloud plan. Cost varies with the task and there's no way to predict it upfront.
 
@@ -68,7 +68,7 @@ The texture stays live. Edit the precomp and the change shows on the geometry st
 
 ## 3. Materials on 3D text and shape layers
 
-<p align="center"><img src="https://i.ytimg.com/vi/RcNUE6lg3fE/hq2.jpg" width="560" alt="Frame from around 5:17: materials on 3D text"><br><sub>Frame from around 5:17, during the 3D materials demo</sub></p>
+<p align="center"><img src="../docs/media/ae27-frame-2.jpg" width="560" alt="Frame from around 5:17: materials on 3D text"><br><sub>Frame from around 5:17, during the 3D materials demo</sub></p>
 
 1. Open the layer's **Geometry Options → Material Options**.
 2. Scroll to the bottom and click **Add override**. Choose *All* to get four slots: **front, bevel, side, back**.
@@ -95,7 +95,7 @@ Stock now has its own panel. Search, download and import assets into the project
 
 ## 6. Contour Paint
 
-<p align="center"><img src="https://i.ytimg.com/vi/RcNUE6lg3fE/hq3.jpg" width="560" alt="Frame from around 7:55"><br><sub>Frame from around 7:55, at the Stock panel and Contour Paint section</sub></p>
+<p align="center"><img src="../docs/media/ae27-frame-3.jpg" width="560" alt="Frame from around 7:55"><br><sub>Frame from around 7:55, at the Stock panel and Contour Paint section</sub></p>
 
 - Out of beta. Default look is a painterly distortion that works on full video.
 - GPU-accelerated and fast to render.
